@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lysandros personal website</title><link>https://lymvs.github.io/</link><description>Recent content on Lysandros personal website</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://lymvs.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://lymvs.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lymvs.github.io/about/</guid><description>&lt;p>👋 Hi, I&amp;rsquo;m &lt;strong>Lysandros&lt;/strong>, a data engineer passionate about building clean, scalable data pipelines and backend systems that power real-world applications.&lt;/p>
+&lt;p>I began my career as a data analyst, where I discovered a deep interest in coding and problem-solving. That experience led me into data engineering, where I now work on transforming raw data into structured, actionable insights.&lt;/p>
+&lt;p>I&amp;rsquo;m currently deepening my knowledge of &lt;strong>computer science&lt;/strong>, &lt;strong>backend engineering&lt;/strong>, and &lt;strong>modern data systems&lt;/strong> through structured programs like the &lt;strong>Backend Path on &lt;a href="https://boot.dev/u/lysandros" class="external-link" target="_blank" rel="noopener">Boot.dev&lt;/a>&lt;/strong> and the &lt;strong>Data Engineering Nanodegree from Udacity&lt;/strong>. I&amp;rsquo;m especially interested in the intersection of software engineering and data infrastructure.&lt;/p></description></item><item><title>Certifications</title><link>https://lymvs.github.io/certifications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lymvs.github.io/certifications/</guid><description>&lt;h2 id="-computer-science--fundamentals">
+ 🧠 Computer Science &amp;amp; Fundamentals
+ &lt;a class="heading-link" href="#-computer-science--fundamentals">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>CS50’s Introduction to Computer Science&lt;/strong> – &lt;em>Harvard University&lt;/em>&lt;br>
+Issued: Dec 2024&lt;br>
+&lt;a href="https://certificates.cs50.io/42792564-6ebb-4ba8-bcb5-606cfc17b376.png" class="external-link" target="_blank" rel="noopener">View Certificate&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>PH125.2x: Data Science – Visualization&lt;/strong> – &lt;em>HarvardX via edX&lt;/em>&lt;br>
+Issued: May 2019&lt;br>
+&lt;a href="https://courses.edx.org/certificates/c8fca639c3e54392877fa509edca3e14" class="external-link" target="_blank" rel="noopener">View Certificate&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>PH125.3x: Data Science – Probability&lt;/strong> – &lt;em>HarvardX via edX&lt;/em>&lt;br>
+Issued: May 2019&lt;br>
+&lt;a href="https://courses.edx.org/certificates/b3e02ef2fc20459183451a757b7d416f" class="external-link" target="_blank" rel="noopener">View Certificate&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>PH125.1x: Data Science – R Basics&lt;/strong> – &lt;em>HarvardX via edX&lt;/em>&lt;br>
+Issued: Apr 2019&lt;br>
+&lt;a href="https://courses.edx.org/certificates/ed393f114e024e9ca274dec876915128" class="external-link" target="_blank" rel="noopener">View Certificate&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>PH526x: Using Python for Research&lt;/strong> – &lt;em>HarvardX via edX&lt;/em>&lt;br>
+Issued: Dec 2018&lt;br>
+&lt;a href="https://courses.edx.org/certificates/c938469f2f47497d898c2eaa50e4d4ac" class="external-link" target="_blank" rel="noopener">View Certificate&lt;/a>&lt;/p></description></item><item><title>Projects</title><link>https://lymvs.github.io/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lymvs.github.io/projects/</guid><description>&lt;h2 id="-featured-projects">
+ 🌟 Featured Projects
+ &lt;a class="heading-link" href="#-featured-projects">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;h3 id="vehicle-routing-problem-solver-harvard-cs50">
+ Vehicle Routing Problem Solver &lt;em>(Harvard CS50)&lt;/em>
+ &lt;a class="heading-link" href="#vehicle-routing-problem-solver-harvard-cs50">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;p>A web application that solves complex Vehicle Routing Problem (VRP) scenarios for logistics optimization. Uses Google OR-Tools for route planning and NetworkX for graph operations. This was also the final project of Harvard&amp;rsquo;s CS50.&lt;/p>
+&lt;p>&lt;strong>Tech Used:&lt;/strong> Python (Flask), Google OR-Tools, NetworkX, Geopy&lt;br>
+🔗 &lt;a href="https://github.com/lymvs/vrp.git" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a> · 🎥 &lt;a href="https://youtu.be/waHRrTyVWCs" class="external-link" target="_blank" rel="noopener">Demo&lt;/a>&lt;/p></description></item><item><title>Resume</title><link>https://lymvs.github.io/resume/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lymvs.github.io/resume/</guid><description>&lt;h1 id="skills">
+ Skills
+ &lt;a class="heading-link" href="#skills">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h1>
+&lt;p>Python; SQL; ETL/ELT; Data Modeling; Data Warehousing (Snowflake); Apache Spark
+(PySpark, Databricks); Data Orchestration (Dataiku, Prefect); CI/CD &amp;amp; DevOps
+(Git, Docker); Cloud: AWS; BI &amp;amp; Analytics Tools (Power BI, Tableau);
+Agile/Kanban methodology&lt;/p>
+&lt;hr>
+&lt;h1 id="experience">
+ Experience
+ &lt;a class="heading-link" href="#experience">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h1>
+&lt;p>&lt;strong>Pfizer, Thessaloniki, Greece&lt;/strong> — &lt;em>Senior Data Engineer&lt;/em>&lt;br>
+APR 2025 - PRESENT&lt;/p>
+&lt;ul>
+&lt;li>Developed and optimized end-to-end data pipelines using Python and
+Dataiku on AWS, ingesting and transforming large-scale data into
+Snowflake data warehouses. Ensured high data quality and timely
+availability, which improved analytics query performance and reliability
+of insights for global teams.&lt;/li>
+&lt;li>Co-led the implementation of scalable ETL workflows and automation
+scripts, eliminating manual data handling and reducing pipeline runtimes
+by an estimated 20%. These efficient workflows freed up analysts’ time
+and accelerated delivery of business reports.&lt;/li>
+&lt;li>Ingested and integrated new data sources into ETL pipelines feeding a
+Large Language Model (LLM) based application, enabling accurate user Q&amp;amp;A
+by maintaining a clean, query-optimized action data model.&lt;/li>
+&lt;/ul>
+&lt;p>Tech used: Python, Dataiku, Snowflake, AWS (cloud storage and databases), SQL,
+Streamlit, Git&lt;/p></description></item></channel></rss>
